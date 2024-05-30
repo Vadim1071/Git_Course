@@ -1,0 +1,39 @@
+[33mcommit 44a8b25ccea14f086dfa1801757fac4f05100b64[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Busovv <glsterab@gmail.com>
+Date:   Tue May 28 20:35:08 2024 +0300
+
+    Reapply "created print(3)"
+    
+    This reverts commit 31f7cfaefb7e1d8c2e33c7f51f025b94ac04cf4a.
+
+[33mcommit 31f7cfaefb7e1d8c2e33c7f51f025b94ac04cf4a[m
+Author: Busovv <glsterab@gmail.com>
+Date:   Tue May 28 20:29:30 2024 +0300
+
+    Revert "created print(3)"
+    
+    This reverts commit f83df63b77559de777711e41b08a1ca3ae63c0bb.
+
+[33mcommit f83df63b77559de777711e41b08a1ca3ae63c0bb[m
+Author: Busovv <glsterab@gmail.com>
+Date:   Tue May 28 20:20:43 2024 +0300
+
+    created print(3)
+
+[33mcommit d12bac9c95ebd826c18f09218c421858889d22d8[m
+Author: Busovv <glsterab@gmail.com>
+Date:   Tue May 28 19:26:37 2024 +0300
+
+    change +format
+
+[33mcommit 0f5cf7efb99f8dc3dc8604605367c68aba4b3c3c[m
+Author: Busovv <glsterab@gmail.com>
+Date:   Tue May 28 19:19:32 2024 +0300
+
+    change code
+
+[33mcommit 8aa5868378a1155650cbf2355d0ae81113d82623[m
+Author: Busovv <glsterab@gmail.com>
+Date:   Tue May 28 19:00:19 2024 +0300
+
+    First commit
